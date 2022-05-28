@@ -1,0 +1,10 @@
+main {
+    display: flex;
+}
+
+@media screen {
+    a.nav-link {
+        display: block;
+    }
+    
+}
